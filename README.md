@@ -22,7 +22,11 @@ Stephen De Gabrielle
 ## update 7 Feb 2025
 
 repo has been renamed to describe and registered on racket package catalog
+Licence to same terms as Racket copyright holders consent
 
+Copyright 2007 Doug Williams
+
+```
 -----
 From: Doug Williams 
 Date: Fri, Feb 7, 2025 at 5:44 PM
@@ -61,3 +65,5 @@ Racket licence terms:
 
 > By making a contribution, you are agreeing that your contribution is licensed under the LGPLv3, Apache 2.0, and MIT licenses. Those licenses are available in this repository in the files racket/src/LICENSE-LGPL.txt, racket/src/LICENSE-APACHE.txt, and racket/src/LICENSE-MIT.txt
 https://github.com/racket/racket?tab=readme-ov-file#contributing
+
+```
