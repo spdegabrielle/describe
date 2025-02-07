@@ -4,3 +4,5 @@
 (define required-core-version "5.0")
 (define deps '("base" "compatibility-lib"))
 (define build-deps '("scribble-lib" "racket-doc"))
+(define license
+  '(Apache-2.0 OR MIT))
