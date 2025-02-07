@@ -1,6 +1,8 @@
 ## describe
 
-Mirror of describe
+Describe: Doug Williams's 'describe.plt' package from PLaneT.
+
+Updated to Racket package catalog and modern Racket by Matthew Butterick
 
 ## Docs
 
@@ -8,21 +10,14 @@ https://docs.racket-lang.org/describe/
 
 ## Project status
 
-Maintained, for some sense of that word. I didn’t write this code. This is a copy of a project that lives on Racket’s PLaneT servers, adjusted so it works with Racket’s current package-server system and Racket CS (which after v8.0 is just “Racket”). I don’t know how this code works and don’t even use this package anymore. But as long as it continues to demand almost nothing of me, I suppose I am maintaining it. But if there were a change to Racket that broke this package in a major way, I would let it die. No question.
+This is a copy of [describe.plt](https://planet.racket-lang.org/display.ss?package=describe.plt&owner=williams) created by M. Doug Williams
 
+Adjusted by Matthew Buttick so it works with Racket’s current package-server system and Racket CS (which after v8.0 is just “Racket”).
 
-## update 16 Jan 2025
+7 Feb 2025 
 
-https://git.matthewbutterick.com/mbutterick/describe is offline 
-
-this repo is copy renamed to describe2 to avoid name collision
-
-Stephen De Gabrielle
-
-## update 7 Feb 2025
-
-repo has been renamed to describe and registered on racket package catalog
-Licence to same terms as Racket copyright holders consent
+Moved to https://github.com/spdegabrielle/describe and licence changed 
+to same terms as Racket copyright holders consent.
 
 Copyright 2007 Doug Williams
 
